@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AI4LIFE/static/css/main.e9985928.css",
+    "main.js": "/AI4LIFE/static/js/main.50e15d4f.js",
+    "index.html": "/AI4LIFE/index.html",
+    "main.e9985928.css.map": "/AI4LIFE/static/css/main.e9985928.css.map",
+    "main.50e15d4f.js.map": "/AI4LIFE/static/js/main.50e15d4f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9985928.css",
+    "static/js/main.50e15d4f.js"
+  ]
+}
