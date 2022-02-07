@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/AI4LIFE/static/css/main.e9985928.css",
-    "main.js": "/AI4LIFE/static/js/main.50e15d4f.js",
+    "main.js": "/AI4LIFE/static/js/main.c5a9cc18.js",
     "index.html": "/AI4LIFE/index.html",
     "main.e9985928.css.map": "/AI4LIFE/static/css/main.e9985928.css.map",
-    "main.50e15d4f.js.map": "/AI4LIFE/static/js/main.50e15d4f.js.map"
+    "main.c5a9cc18.js.map": "/AI4LIFE/static/js/main.c5a9cc18.js.map"
   },
   "entrypoints": [
     "static/css/main.e9985928.css",
-    "static/js/main.50e15d4f.js"
+    "static/js/main.c5a9cc18.js"
   ]
 }
